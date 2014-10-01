@@ -14,3 +14,6 @@
 	path = bundle/fireplace
 	url = git://github.com/tpope/vim-fireplace.git
 	ignore = dirty
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git

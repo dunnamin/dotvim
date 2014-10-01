@@ -1,0 +1,16 @@
+[submodule "bundle/leiningen"]
+	path = bundle/leiningen
+	url = git://github.com/tpope/vim-leiningen.git
+	ignore = dirty
+[submodule "bundle/projectionist"]
+	path = bundle/projectionist
+	url = git://github.com/tpope/vim-projectionist.git
+	ignore = dirty
+[submodule "bundle/dispatch"]
+	path = bundle/dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+	ignore = dirty
+[submodule "bundle/fireplace"]
+	path = bundle/fireplace
+	url = git://github.com/tpope/vim-fireplace.git
+	ignore = dirty

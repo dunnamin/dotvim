@@ -14,3 +14,4 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule update
 
 ssh is git@github.com:dunnamin/dotvim.git
+git remote set-url origin  <REMOTE_URL> with above url

@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/dunnamin/projects/dxf/back2'
+let g:netrw_dirhist_2='/home/dunnamin/projects/svg/svgtypes'
+let g:netrw_dirhist_3='/home/dunnamin/projects/svg'
+let g:netrw_dirhist_4='/home/dunnamin/projects'
+let g:netrw_dirhist_5='/home/dunnamin/projects/dxf'
+let g:netrw_dirhist_6='/home/dunnamin/projects/dxf/dxf'
+let g:netrw_dirhist_7='/home/dunnamin/.vim'
+let g:netrw_dirhist_8='/home/dunnamin/.vim/autoload'
